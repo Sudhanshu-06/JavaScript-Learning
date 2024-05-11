@@ -19,3 +19,13 @@ function functionKaNaam(){
     console.log("abbhhjvhvjhv")
 }
 functionKaNaam();
+
+//object
+//Non-primitive work on refrence basis
+// primtive work on value basis
+
+const obj ={}; //object literal
+obj.myname="aman";
+console.log(obj);
+
+
