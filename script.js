@@ -11,6 +11,12 @@
 
 // let animal="Lion"
 // console.log(window.randomGuy,window.animal)
+
+// anfdfs; --window oobject scope
+// var asad;-- global / function scope
+// let/const;-- block scope
+
+
 // Data Types
 // - primitive-undefined,null,number,BigInt,Symbol,String,boolean
 // - Non-primitive - object
