@@ -20,10 +20,35 @@ Js Engine
 // --A function with some preresrved values creates a closure.
 // -- A closure is created when a function preserves variables outside of its scope.
 
-let myname="JS"
-let dept="web"
-function show(){
 
-}
-console.dir(show);
+// function show(){
+//     let myname="JS"
+//     let dept="web"
+
+//     function inner(){
+//         console.log(myname,dept);
+//     }
+//     console.dir(inner);
+// }
+// show();
+
+// function show(){
+//     let name='private name';
+
+//     return{ 
+//         show:function(){
+//          console.log(name);
+//     },
+//     update:function(val){
+//         if(val==23)
+//         name=val;
+//     }
+// }
+// }
+// name='asad';
+// const showNameFn= show();
+// console.dir(showNameFn.show())
+  
+
+
 
