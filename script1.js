@@ -48,6 +48,33 @@ Js Engine
 // name='asad';
 // const showNameFn= show();
 // console.dir(showNameFn.show())
+
+
+// var myName="223"
+// function show(){
+//     var myName="34"
+//     console.log('show',myName);
+// };
+// show();
+
+
+// --IIFE
+// (function(){
+//     console.log("inside IIFE");
+// })();
+
+// for(var i=0; i<10;i++){
+//     (function(flag){
+//         setTimeout(()=>{
+//             console.log(flag);
+//         },100)
+//     })(i);
+// }
+
+
+// --currying
+
+
   
 
 

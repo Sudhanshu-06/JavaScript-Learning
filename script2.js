@@ -1,0 +1,7 @@
+/*
+Is js interpretd and compiled
+Hoisting
+Execution context
+this
+Prototypes
+*/
